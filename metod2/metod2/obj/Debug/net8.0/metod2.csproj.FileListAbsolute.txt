@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\bin\Debug\net8.0\metod2.exe
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\bin\Debug\net8.0\metod2.deps.json
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\bin\Debug\net8.0\metod2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\bin\Debug\net8.0\metod2.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\bin\Debug\net8.0\metod2.pdb
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\refint\metod2.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.pdb
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\metod2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\metod2\metod2\obj\Debug\net8.0\ref\metod2.dll
