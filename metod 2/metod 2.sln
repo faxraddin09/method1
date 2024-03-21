@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod 2", "metod 2\metod 2.csproj", "{D47E3B04-135C-4D94-9A92-2F338D20720A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47E3B04-135C-4D94-9A92-2F338D20720A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47E3B04-135C-4D94-9A92-2F338D20720A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47E3B04-135C-4D94-9A92-2F338D20720A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47E3B04-135C-4D94-9A92-2F338D20720A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA8F41C-618C-467E-98B6-8FC0DD1421F3}
+	EndGlobalSection
+EndGlobal

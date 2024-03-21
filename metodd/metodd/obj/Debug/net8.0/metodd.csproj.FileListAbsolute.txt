@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\bin\Debug\net8.0\metodd.exe
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\bin\Debug\net8.0\metodd.deps.json
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\bin\Debug\net8.0\metodd.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\bin\Debug\net8.0\metodd.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\bin\Debug\net8.0\metodd.pdb
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\refint\metodd.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.pdb
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\metodd.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\metodd\metodd\obj\Debug\net8.0\ref\metodd.dll

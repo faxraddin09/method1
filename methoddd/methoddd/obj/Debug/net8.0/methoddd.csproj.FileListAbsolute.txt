@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\bin\Debug\net8.0\methoddd.exe
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\bin\Debug\net8.0\methoddd.deps.json
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\bin\Debug\net8.0\methoddd.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\bin\Debug\net8.0\methoddd.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\bin\Debug\net8.0\methoddd.pdb
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\refint\methoddd.dll
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.pdb
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\methoddd.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\test11\methoddd\methoddd\obj\Debug\net8.0\ref\methoddd.dll
